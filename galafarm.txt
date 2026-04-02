@@ -1,0 +1,8 @@
+python3 galafarm.py \
+  --file galafarm.xlsx vagy .odf \
+  --next_date A következ helyszín dátuma \
+  --helyszin "Neve kell a helyszínnek" \
+  --weather felhős \
+  --temp 16 \
+  --rain nem \
+  --holiday nem \
